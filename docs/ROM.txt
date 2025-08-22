@@ -1,0 +1,25 @@
+---27010---
+0x08000 - esxmmc
+0x10000 - Empty + Empty + 128rom + 48rom
+
+---27020--- 
+(J11 open, AD2-open)
+0x28000 - esxmmc
+0x30000 - Empty + Empty + 128rom + 48rom
+(J11 open, AD2-close)
+0x08000 - esxmmc
+0x10000 - Fatall + TR-DOS + 128rom + 48rom
+
+---27040---
+(J11-open, AD2-open)
+0x68000 - esxmmc
+0x70000 - Empty + Empty + 128rom + 48rom
+(J11-open, AD2-close)
+0x48000 - esxmmc
+0x50000 - Fatall + TR-DOS + 128rom + 48rom
+(J11-close, AD2-open)
+0x28000 - Empty (esxmmc)
+0x30000 - Empty - Empty - Empty - Empty
+(J11-close, AD2-close)
+0x08000 - esxmmc
+0x10000 - Empty - Empty - Empty - Empty
