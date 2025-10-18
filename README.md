@@ -8,4 +8,6 @@ Two expansion slots.
 
 Unbuffered video output for AlexEkb converter RGBI to HDMI/VGA.
 
+https://t.me/pentadiv
+
 ![Top](img/PentaDiv2.jpg)
